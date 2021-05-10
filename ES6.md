@@ -10,7 +10,7 @@
 In the year 1996, a standards organization called **ECMA** *( European Computer Manufacturers Association )* **International** carved out standard specification called **ECMAScript (ES)**.
 
 ECMAScript provides the rules, details, and guidelines that a scripting language must observe to be considered ECMAScript compliant.
-ECMAScript was created to standardize JavaScript, and was mean't to ensure the interoperability of web pages written using Javascript across different web browsers. 
+ECMAScript was created to standardize JavaScript, to ensure the interoperability of web pages written using Javascript across different web browsers. 
 
 The most well-known implementations of ECMAScript is Javascript. Moreover ActionScript (from Macromedia/Adobe Systems) and JScript (from Microsoft) are other implementations as well.  
 
