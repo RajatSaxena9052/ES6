@@ -823,7 +823,6 @@ var b = a**2;  //b is 36
 ## **Conclusion** 
 This paper covers about ES6 and some its main features. Through this paper a number of improvements can be judged with respect to the previous verion of ECMAScript.
 
----
 ## **Sources**
 
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
@@ -832,5 +831,3 @@ This paper covers about ES6 and some its main features. Through this paper a num
 
 * [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [ECMAScript® 2015 Language Specification](https://262.ecma-international.org/6.0/)
-
---- 
