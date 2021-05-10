@@ -10,12 +10,14 @@
 In the year 1996, a standards organization called **ECMA** *( European Computer Manufacturers Association )* **International** carved out standard specification called **ECMAScript (ES)**.
 
 ECMAScript provides the rules, details, and guidelines that a scripting language must observe to be considered ECMAScript compliant.
-ECMAScript was created to standardize JavaScript, to ensure the interoperability of web pages written using Javascript across different web browsers. 
+ECMAScript was created to standardize JavaScrip and to ensure the interoperability of web pages written using Javascript across different web browsers. 
 
 The most well-known implementations of ECMAScript is Javascript. Moreover ActionScript (from Macromedia/Adobe Systems) and JScript (from Microsoft) are other implementations as well.  
 
 ---
 ## **Different Versions Of ECMAScript (ES)**
+![Different Versions Of ECMAScript (ES)](images/4.png)
+
 JavaScript is always evolving, and new features are released every year. Till date, ES has published **Nine versions** and the latest one (9th version) was published in the year 2018.
 
 ES Versions| Year Released
@@ -34,15 +36,20 @@ ES9        | 2018
 
 ---
 ## **Difference Between Javascript & ECMAScript**
+!["Javascript vs ES6"](images/3.png)
+
 + **Javascript** is a general purpose scripting language that conforms to the ECMAScript specification. whereas **ECMAScript** is the specification defined in ECMA-262 for creating a general purpose scripting language.
 
 + By reading the [ECMAScript specification](https://262.ecma-international.org/6.0/), one can learn how to create a scripting language like Javascript etc. whereas by reading the [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript), one can learn how to use a general purpose scripting language in an efficient way.
 
 ---
 ## **why Learn ES6 ?**
+
+![why learn ES6](images/5.png)
+
 The **next generation** of Javascript is something known as **ES6**.
 - ES6, released in 2015, added many new powerful features to the language.
-- ES6 brings new syntax and new awesome features which enables the programmer to make code more modern, cleaner and readable.
+- ES6 brings new syntax and new awesome features which enables the programmer to make code more modern, cleaner, readable and expressive.
 - ES6 allows developers to write shorter and smarter code.
 
 - As React uses ES6, so to get the maximum performance one should be familiar with some of the new features like:
