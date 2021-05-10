@@ -3,16 +3,18 @@
 !["javascript"](images/1.jpeg)
 ## **What is ES6 ?**
 
-**ES6** is also known as **ECMAScript 6** and **ECMAScript 2015**. Some call it **JavaScript 6**. It is the latest version of ECMAScript standard for Javascript language published in june 2015. 
+**ES6** is also known as **ECMAScript 6** and **ECMAScript 2015**. Some call it **JavaScript 6** and it is the latest version of ECMAScript standard for Javascript language published in june 2015. 
 
+---
 ## **What is ES ?**
 In the year 1996, a standards organization called **ECMA** *( European Computer Manufacturers Association )* **International** carved out standard specification called **ECMAScript (ES)**.
 
 ECMAScript provides the rules, details, and guidelines that a scripting language must observe to be considered ECMAScript compliant.
 ECMAScript was created to standardize JavaScript, and was mean't to ensure the interoperability of web pages written using Javascript across different web browsers. 
 
-The most well-known implementations of ECMAScript is Javascript. Moreover ActionScript (from Macromedia/Adobe Systems) and JScript (from Microsoft) are other implementations as well.
+The most well-known implementations of ECMAScript is Javascript. Moreover ActionScript (from Macromedia/Adobe Systems) and JScript (from Microsoft) are other implementations as well.  
 
+---
 ## **Different Versions Of ECMAScript (ES)**
 JavaScript is always evolving, and new features are released every year. Till date, ES has published **Nine versions** and the latest one (9th version) was published in the year 2018.
 
@@ -30,14 +32,14 @@ ES9        | 2018
 
 > The current ECMAScript version  supported in modern browsers is ES5. However, ES6 tackles most of the limitations of the core language, making it easier for developers to code.  
 
+---
 ## **Difference Between Javascript & ECMAScript**
------
 + **Javascript** is a general purpose scripting language that conforms to the ECMAScript specification. whereas **ECMAScript** is the specification defined in ECMA-262 for creating a general purpose scripting language.
 
 + By reading the [ECMAScript specification](https://262.ecma-international.org/6.0/), one can learn how to create a scripting language like Javascript etc. whereas by reading the [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript), one can learn how to use a general purpose scripting language in an efficient way.
 
-## **why Learn ES6 ?**
 ---
+## **why Learn ES6 ?**
 The **next generation** of Javascript is something known as **ES6**.
 - ES6, released in 2015, added many new powerful features to the language.
 - ES6 brings new syntax and new awesome features which enables the programmer to make code more modern, cleaner and readable.
@@ -46,8 +48,8 @@ The **next generation** of Javascript is something known as **ES6**.
 - As React uses ES6, so to get the maximum performance one should be familiar with some of the new features like:
 Classes, Arrow Functions, Variables (let, const, var) etc.
 
+---
 ## **ECMAScript(ES6) Features**
-------
 
 !["Javascript ES6 Features"](images/2.jpeg)
 
@@ -816,12 +818,13 @@ var b = a**2;  //b is 36
     console.log(returnedTarget);
     // returns Object { a: 1, b: 4, c: 5 }
 
-## **Conclusion** 
 ---
+
+## **Conclusion** 
 This paper covers about ES6 and some its main features. Through this paper a number of improvements can be judged with respect to the previous verion of ECMAScript.
 
 ## **Sources**
----
+
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 * [W3 School](https://www.w3schools.com/)
